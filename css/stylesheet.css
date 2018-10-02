@@ -1,0 +1,311 @@
+
+body
+{
+	margin:0px;
+}
+.fleft{float:left;}
+.fright{float:right;}
+.clear{clear:both;}
+.top-container
+{
+    width: 95%;
+    margin: 0px auto;
+}
+.container
+{    
+    width: 80%;
+    margin: 0px auto;
+}
+header
+{
+	background-color: black;
+   
+	
+}
+.logo {
+    
+    padding-top: 20px;
+   
+}
+nav { 
+	  
+	  padding:15px;
+	  
+	  
+	}
+nav ul
+{
+ padding:0px;
+}
+nav ul li a {
+	text-decoration:none;
+	color:rgb(255, 102, 102);
+}
+nav a:hover
+{
+	color: #fff;
+}
+
+
+nav ul li
+{
+	display:inline-block;
+     margin-left:9px;
+}
+.banner
+{
+
+	position:relative;
+}
+.banner img
+{
+	width:100%;
+}
+.welcomecontent
+{
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	color:#fff;
+	text-align:center;
+	width: 100%;
+	
+	
+	
+}
+.welcomecontent h1
+{
+	
+	font-family: Microsoft Yi Baiti;
+    font-size: 70px;
+    margin: 20px;
+    
+}
+.welcomecontent h2
+{
+	
+	font-family: Microsoft Yi Baiti;
+    font-size: 55px;
+    margin: 0px;
+    
+}
+
+.welcomecontent p
+{
+    font-size: 30px;
+    font-family: Yu Gothic UI Light;
+
+}
+.welcome 
+{
+	
+	margin-top: 55px;
+
+}
+.welcome h2
+{
+    font-family: Microsoft Yi Baiti;
+    text-align: center;
+    font-size: 50px;
+	
+}
+.welcome p
+{
+    text-align: center;
+    color: #8c8887;
+    font-size: 21px;
+	font-style:italic;
+	
+}
+.welcome hr
+{
+	width:65%;
+	
+}
+.services5g
+{
+	width:33.33%;
+	margin-top:60px;
+	
+}
+
+.service-innr
+{
+	
+	text-align: center;
+    width: 85%;
+
+}
+.service-innr p
+{
+	color:#474747c7;
+	font-size:20px;
+	font-style:italic;
+}
+.service-innr img
+{
+	width:100%;
+	
+	
+}
+.service-innr h3
+{
+	font-family:Microsoft Yi Baiti;
+	font-size:25px;
+}
+.centre 
+{
+	margin:0px auto;
+	
+	
+}
+
+.securitys
+{
+ margin-top:50px;	
+}
+
+.securitys a
+{   
+     font-family:Microsoft Yi Baiti;
+	 text-decoration:none;
+	 padding:18px 30px;
+	 background-color:#e56362;
+	 color:#fff;
+	 display:inline-block;
+}
+.customers
+{
+	background-image:url("../images/customer-bg.jpg");
+    padding-bottom: 130px;
+    margin-top: 100px;
+    background-repeat: no-repeat;
+	
+}
+
+.customers h1
+{
+    font-size: 40px;
+    font-family: Californian FB;
+    text-align: center;
+    padding-top: 45px;
+ }
+
+.customers-innr
+{
+	
+	overflow:auto;
+	width:40%;
+}
+
+.customers-innr img 
+{
+	width:100%;
+}
+
+
+.client
+{
+	width:45%;
+    margin-top:45px;
+
+}
+.testimonial h1 
+{
+	text-align: center;
+    margin: 55px;
+    font-size: 40px;
+    font-family: Microsoft Yi Baiti;
+}
+.testimonial-2
+{
+	background-image:url("../images/img1.jpg");
+	padding: 100px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+	text-align:center;
+	color:#6c6c6c;
+	font-size:18px;
+}
+.products
+{
+	
+	background-image:url("../images/cctv-banner.jpg");
+	    background-repeat: no-repeat;
+	padding:50px 0px;
+	margin-top:90px;
+	
+	
+}
+.product-innr
+{
+	font-size: 17px;
+    margin-right: 25px;
+	line-height:28px
+	
+}
+.product-innr h2
+{
+	font-size: 23px;
+}
+.product-innr ul
+{
+	color:#f50000;
+}
+.product-innr span
+{
+	   color: #484647;
+	   font-size:22px
+	
+}
+.location-img
+{
+	background-image:url("../images/location.jpg");
+    padding: 5px 0px;
+	margin-bottom:70px;
+    background-repeat: no-repeat;
+	    background-size: contain;
+	
+}
+.location h3 
+{
+	
+	font-family:Microsoft Yi Baiti;	
+	text-align:center;
+	font-size: 40px;
+    margin:55px;
+	font-style:italic;
+	
+}
+
+.location p
+
+{
+    text-align: center;
+    line-height: 50px;
+    color: #61605e;
+    font-style: italic;
+    font-size: 23px;
+}
+.footer{background-color:black;
+		color:white;
+		text-align:center;
+		padding:10px;
+	 }
+	 
+.ficon{font-size:30px;
+		
+		
+}
+.ficon ul {padding:0px;}
+.ficon ul li {display:inline-block;}
+.ficon ul li a{color:black;
+				
+}
+.ficon ul li a i {color:white;
+				  height:26px;
+				  width:26px;
+				  padding:10px;
+				  
+}
